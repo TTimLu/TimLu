@@ -1,0 +1,92 @@
+body{
+  background-color: #BBDEFB;
+  overflow-x: hidden;
+}
+.google-text{
+  font-family: Montserrat;
+}
+.container-fluid{
+  padding-top: 70px;
+  padding-bottom: 70px;
+}
+.custom-navbar{
+  font-family: Montserrat;
+  background-color: #2196f3;
+}
+#nav-txt{
+  color: white;
+}
+header{
+  text-align: center;
+}
+.frontpage-name {
+  color: black;
+  font-family: Montserrat;
+  font-weight: bold;
+  font-size: 40px;
+}
+hr.star-light{
+  color: #000;
+}
+hr.star-light, hr.star-primary {
+margin: 15px auto 15px;
+padding: 0;
+max-width: 2000px;
+border: 0;
+border-top: solid 3px;
+text-align: center;
+}
+.frontpage-skills{
+  color: black;
+  font-family: Montserrat;
+  font-size: 20px;
+}
+.frontpage-phone{
+  color: black;
+  font-family: Montserrat;
+  font-size: 20px;
+}
+.frontpage-email{
+  color: black;
+  font-family: Montserrat;
+  font-size: 20px;
+}
+.frontpage-interest{
+  color: black;
+  font-family: Montserrat;
+  font-size: 20px;
+}
+.bottom-padding{
+  margin-bottom: 45px;
+}
+.footer-above{
+  padding-top: 50px;
+}
+.social-icons{
+  font-size: 40px;
+}
+#about {
+  background-color: #90caf9;
+  padding: 50px 150px 50px 150px;
+}
+#contact {
+  background-color: #90caf9;
+  padding: 50px 150px 50px 150px;
+}
+#copyright-text{
+  font-size: 12px;
+  padding-top: 20px;
+}
+#contact-info{
+  padding-top: 25px;
+}
+#portpics{
+	display: block;
+	margin: 0 auto;
+}
+.custom-navbar .navbar-nav > .active > a,
+.custom-navbar .navbar-nav > .active > a:hover,
+.custom-navbar .navbar-nav > .active > a:focus{
+  color: #FFF;
+  background-color: #0D47A1;
+}
